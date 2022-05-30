@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map LegoRobot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LegoRobot	KEYWORD1	LegoRobot
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+maju	KEYWORD2
+mundur	KEYWORD2
+jeda	KEYWORD2
+putarKanan	KEYWORD2
+putarKiri	KEYWORD2
+belokKanan	KEYWORD2
+belokKiri	KEYWORD2
+bukaanGripper	KEYWORD2
+ketinggianGripper	KEYWORD2
+bacaGaris	KEYWORD2
+printGaris	KEYWORD2
+bacaJarak	KEYWORD2
+sambungRemote	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
